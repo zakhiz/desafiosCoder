@@ -1,0 +1,12 @@
+.colores{
+    margin: 10px;
+}
+.colores p{
+    font-size: 20px;
+}
+
+.linea{
+    height: 5px;
+    width: 100%;
+    background-color: #000;
+}
